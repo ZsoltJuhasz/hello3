@@ -1,4 +1,5 @@
-/*
+/* 
+* séma a kezdéshez
 * File: App.java
 * Author: Juhász Zsolt
 * Copyright: 2021, Juhász Zsolt
